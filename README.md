@@ -1,2 +1,2 @@
-# injector-daq
+# Igniter-daq
 Igniter DAQ
